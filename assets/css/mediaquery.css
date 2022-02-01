@@ -1,0 +1,437 @@
+@media(max-width: 991px) {
+    /* global colors,buttons....other */
+
+.btn-main-theme{
+    font-size: 16px;
+}
+
+.btn-sec-theme{  
+    font-size: 16px;
+}
+.btn-size{
+    
+    border-radius: 5px;
+}
+.btn-sec-size{
+   
+    border-radius: 5px;
+}
+
+.btn-space{
+    margin-left: 25px;
+
+}
+/* END OF GLOBAL */
+
+/* Navbar   */
+.navbar-main{
+    margin-top: 30px;
+}
+.btn-hire{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.logo-main{
+    margin-top: -20px;
+}
+/* jassica-intro */
+.jassica-intro{
+    margin-top: 80px;
+    
+}
+.btn-hello{
+    padding: 15px 30px 15px 30px;
+}
+.jassica-intro,.jassica-img{
+    text-align: center;
+}
+.jassica-intro h1{
+    font-weight: 600;
+    font-size:200%;
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+.jassica-intro h5{   
+    padding-top:10px;
+    padding-bottom: 20px;
+}
+.jassica-img img{
+    width: 300px;
+    height: 300px;
+    margin-top: 105px;
+    margin-bottom: 85px;
+    outline-offset: 10px;
+}
+
+/* second read about slide */
+.sec-slide-img{
+    text-align: center;
+}
+
+.sec-slide-img{
+    margin-top: 55px;
+    margin-bottom: -25px;
+}
+.sec-slide-img img{
+    height: 60%;
+    width: 60%;
+    border-radius: 5px;
+    
+}
+.black-box {    
+    padding: 30px;
+    height: 160px;  
+    width: 175px;
+    top: 390px;
+    border-radius: 10px;
+    left: 100px;    
+  }
+
+.sec-slide-data h6{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    line-height: 25px;
+}
+.sec-slide-progress{
+    margin-top: 35px;
+    margin-bottom: 65px;
+}
+.sec-slide-btn{
+    margin-bottom: 75px;
+}
+
+/* service section */
+
+
+.service-sec-main h1{
+    line-height: 40px;
+    font-size:195%;
+}
+
+.service-sec-main h5{
+    line-height: 20px;
+    font-size: 12px;
+}
+.service-box{
+    border-radius: 2px;
+    padding: 30px 10px;
+    position: relative;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+}
+
+.service-box .service-text p{
+    font-size: 15px;
+}
+.service-section-view-btn{ 
+    margin-top: 10px;
+    margin-bottom: 55px;
+}
+/* .reasons section */
+.reasons-girl-img{
+    text-align: center;
+}
+.reasons-sec{
+    background-color: #282A3A;
+}
+
+.reasons-sec img{
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+.reasons-sec-data{
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+}
+.reasons-sec-data p{
+    margin-top: 25px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+}
+.reasons-girl-img img{
+    height: 360px;
+    width: 360px;
+    margin-top: 75px;
+    margin-bottom: -10px;
+    background-color: #333647;
+    outline: 3px dashed white;
+    outline-offset: 5px;
+}
+
+.reasons-btn{
+    border-radius: 5px;
+    height: 150px;
+}
+.reasons-btn-sec{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+/* testimonial  section */
+
+.testimonials-sec p{
+    padding:0px 75px 0px 75px;
+}
+
+.testimonials-main p{
+    line-height: 19px;
+}
+
+.testimonials-img .final-img{
+    padding: -250px;
+}
+.testimonials-img img{  
+    margin-top: -25px;   
+    width:120px;
+    height:120px;   
+}
+.testimonials-quote-img{
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+.testimonials-quote-img p:last-child{
+    margin-bottom: 85px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 20px;
+    text-align: center;
+}
+.portfolio-main p{
+    padding:0px 100px 0px 100px;
+}
+/* blog data section */
+
+.blog-main h1{
+    font-size: 30px;
+}
+.blog-main h6{
+    margin-left:125px;
+    margin-right:125px;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.blog-data{
+    margin-top: 50px;
+}
+.blog-data .img-third{
+    margin-top: 25px;
+}
+/* footer section */
+
+.contact-info,.footer-form{
+    margin-top: 10px;
+}
+
+/* footer-form-- */
+.footer-form h3{
+    margin-top: -35px;
+    margin-bottom: 25px;
+}
+
+.footer-form{
+    margin-top: 45px;
+}
+.footer-email{
+    margin-top: 10px;
+}
+.footer-phone{
+    margin-top: -10px;
+}
+.footer-form-drop{
+    margin-top: 10px;
+}
+}
+/* 767 frame media query */
+@media (max-width: 767px) {
+    /* global colors,buttons....other */
+
+.btn-main-theme{
+    font-size: 12px;
+}
+
+.btn-sec-theme{  
+    font-size: 12px;
+}
+.btn-size{
+    
+    border-radius: 3px;
+}
+.btn-sec-size{
+   
+    border-radius: 3px;
+}
+
+.btn-space{
+    margin-left: 25px;
+
+}
+/* END OF GLOBAL */
+
+/* Navbar   */
+.navbar-main{
+    margin-top: 30px;
+}
+.btn-hire{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.logo-main{
+    margin-top: -20px;
+}
+
+/* jassica-intro */
+.jassica-intro,.jassica-img{
+    margin-top: 80px;
+    text-align: center;
+    
+}
+.btn-hello{
+    padding: 15px 20px 15px 20px;
+}
+.jassica-intro h1{
+    margin-top: 25px;
+}
+.jassica-intro h5{   
+    margin-top: -10px;
+}
+.jassica-img img{
+    width: 280px;
+    height: 280px;
+    margin-top: -25px;
+    margin-bottom: 85px;
+    outline-offset: 5px;
+    margin-left: 10px;
+}
+
+/* second read about slide */
+
+.sec-slide-img img{
+    height: 55%;
+    width: 55%;
+    border-radius: 5px;
+    margin-left: 25px;
+    
+}
+.black-box {    
+    padding: 30px;
+    height: 160px;  
+    width: 175px;
+    top: 260px;
+    border-radius: 10px;
+    left: 25px;
+    margin-left: 75px;    
+  }
+.sec-slide-data h2{
+    margin-top: 150px;
+}
+.sec-slide-data h6{
+    margin-top: 1px;
+    margin-bottom: 15px;
+    font-size: 12px;
+    line-height: 20px;
+}
+.sec-slide-progress{
+    margin-top: 35px;
+    margin-bottom: 65px;
+}
+.sec-slide-btn{
+    margin-bottom: 50px;
+    margin-top: -10px;
+}
+
+/* service section */
+
+.service-box{
+    border-radius: 2px;
+    padding: 10px 5px;
+    position: relative;
+}
+
+/* .reasons section */
+
+.reasons-sec-data{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.reasons-sec-data p{
+    margin-top: 25px;
+    line-height: 20px;
+    font-size: 15px;
+}
+.reasons-girl-img img{
+    height: 320px;
+    width: 320px;
+    margin-top: 50px;
+}
+.reasons-btn-sec{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+ 
+
+/* portfolio */
+
+.portfolio-main p{
+    padding:0px 140px 0px 140px;
+    margin-bottom: -10px;
+}
+.portfolio-img-overlay {
+    width: 100%;
+}
+
+/* blog data section */
+.blog-main h6{
+    font-size: 12px;
+    line-height: 20px;
+}
+.blog-data img{
+    height: auto;
+    width: 60%;
+}
+.blog-btn{
+    height: auto;
+    width: 60%;
+}
+.blog-data{
+    text-align: center;
+}
+.blog-data .img-sec-test{
+    margin-top: 20px;
+}
+/* footer section */
+
+.contact-info,.footer-form{
+    margin-top: 10px;
+}
+.footer-form h3{
+    margin-top: 10px;
+}
+}
+
+@media (max-width: 575px) {
+    /* global colors,buttons....other */
+
+    .black-box {    
+        padding: 30px;
+        height: 155px;  
+        width: 175px;
+        top: 190px;
+            
+      }
+    .footer-form h3{
+        margin-top: 10px;
+    }
+    .portfolio-main p{
+        padding:0px 100px 0px 100px;
+        margin-bottom: -10px;
+    }
+    .testimonials-quote-img p:last-child{
+        padding: 25px;
+    }
+
+
+}
